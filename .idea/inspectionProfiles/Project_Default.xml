@@ -1,0 +1,22 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="tuple.Empcode" />
+          <option value="tuple.middleName" />
+          <option value="tuple.lastName" />
+          <option value="tuple.address" />
+          <option value="tuple.gender" />
+          <option value="tuple.DOB" />
+          <option value="tuple.email" />
+          <option value="tuple.firstName" />
+          <option value="tuple.Salary" />
+          <option value="tuple.phoneNo" />
+          <option value="shop.shop.shop_app.urls" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
